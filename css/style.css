@@ -1,0 +1,106 @@
+
+
+body { 
+    background:black !important;
+} /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
+
+h1,
+h2,
+h3,
+h4,
+label {
+    color:whitesmoke ;
+}
+
+hr {
+    background: whitesmoke !important;
+}
+
+.t-color{
+    color:whitesmoke !important;
+}
+
+.links:hover{
+    color:gray !important;
+}
+
+.back:hover{
+    color:whitesmoke !important;
+}
+
+.destination{
+    width:100%;
+    height:90%;
+}
+
+
+.img-hover:hover {
+    opacity: .8;
+  }
+
+
+
+
+.contact-bg{
+    background-image: url("../img/arches_national_park.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    width:100%;
+    overflow:auto;
+    
+}
+.addPost-bg{
+    background-image: url("../img/Hinatuan-Enchanted-River.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    width:100%;
+    overflow:auto;
+    
+}
+.addCountry-bg{
+    background-image: url("../img/chocolate_hills.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: bottom;
+    width:100%;
+    overflow:auto;
+    
+}
+.users-bg{
+    background-image: url("../img/antelope_canyon.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: bottom;
+    width:100%;
+    overflow:auto;
+    
+}
+.editUser-bg{
+    background-image: url("../img/sydney-harbour.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: top;
+    width:100%;
+    overflow:auto;
+    
+}
+.editPost-bg{
+    background-image: url("../img/great-barrier-reef.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: bottom;
+    width:100%;
+    overflow:auto;
+    
+}
+
+
+
+
+
+
+
+
+
